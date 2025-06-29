@@ -1,0 +1,90 @@
+.banner {
+
+    margin: 0 0 60px 0;
+
+    @include vp-1024 {
+        margin: 0 0 100px 0;
+    }
+
+    @include vp-1304 {
+        margin: 0 0 120px 0;
+    }
+
+    &__wrapper {
+        padding: 8px 0 8px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background-color: $color-alice-blue;
+        border-radius: 16px;
+        position: relative;
+
+        @include vp-768 {
+            padding: 24px;
+        }
+
+        @include vp-1024 {
+            padding: 48px 100px;
+        }
+
+        @include vp-1304 {
+            padding: 48px 120px;
+        }
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    &__title {
+        margin: 0;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 133%;
+
+        @include vp-1024 {
+            font-size: 24px;
+            line-height: 116%;
+        }
+
+        @include vp-1304 {
+            font-size: 24px;
+        }
+    }
+
+    &__text {
+        max-width: 160px;
+        font-size: 14px;
+        line-height: 128%;
+
+        @include vp-768 {
+            max-width: 280px;
+        }
+
+        @include vp-1024 {
+            max-width: 320px;
+            font-size: 16px;
+            line-height: 137%;
+        }
+
+        
+    }
+
+    &__picture {
+        @include vp-768 {
+            position: absolute;
+            right: 40px;
+            top: -20%;
+        }
+
+        @include vp-1024 {
+            top: -15%;
+        }
+
+        @include vp-1304 {
+            right: 184px;
+        }
+    }
+}
