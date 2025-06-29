@@ -1,2 +1,1 @@
-[UI Kit + макет](https://www.figma.com/design/i92ECk0gLaCImCTpmm0kjG/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264--Copy-?node-id=4-4545&t=GHTnISEjazcDnMGI-1) 
-Страница на [GitHub Pages](https://ethereal-tea.github.io/gazprombank-adaptive/privileges)
+[UI Kit + макет](https://www.figma.com/design/i92ECk0gLaCImCTpmm0kjG/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264--Copy-?node-id=4-4545&t=GHTnISEjazcDnMGI-1), страница на [GitHub Pages](https://ethereal-tea.github.io/gazprombank-adaptive/privileges)
